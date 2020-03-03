@@ -1,0 +1,9 @@
+[package]
+name = "http_server"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+num_cpus = "1.0"
+percent-encoding = "1.0.1"
+chrono = "*"
